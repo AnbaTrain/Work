@@ -1,7 +1,7 @@
 # FAQ Agent
 
-Please make a copy of this google sheet - [20251109 - E-commerce FAQs - V1](https://docs.google.com/spreadsheets/d/1HiP5AZ7r162gh3o-5vKx9VK6z1YT7uXjbgrLbQYl4HA/edit?gid=0#gid=0)
-
+Please make a copy of this google sheet - 
+[E-commerce FAQs - V1](https://docs.google.com/spreadsheets/d/1IWGighb6A3QCnDKLZ7cWMjqQvw8WyWptDyyMd9JsdWM/edit?gid=0#gid=0)
 
 ## System Message - Single Sheet (V1)
 
