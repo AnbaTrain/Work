@@ -1,6 +1,6 @@
 # FAQ Agent
 
-Please make a copy of this google sheet - [20251109 - E-commerce FAQs - V1](https://docs.google.com/spreadsheets/d/1HiP5AZ7r162gh3o-5vKx9VK6z1YT7uXjbgrLbQYl4HA/edit?gid=0#gid=0)
+Please make a copy of this google sheet - [20251109 - E-commerce FAQs - V1]([https://docs.google.com/spreadsheets/d/1HiP5AZ7r162gh3o-5vKx9VK6z1YT7uXjbgrLbQYl4HA/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1IWGighb6A3QCnDKLZ7cWMjqQvw8WyWptDyyMd9JsdWM/edit?gid=0#gid=0))
 
 
 ## System Message - Single Sheet (V1)
@@ -35,7 +35,7 @@ Tone: professional, friendly, and factual. No emojis or filler text.
 
 ## System Message - Multiple Sheet (V2)
 
-Please make a copy of this google sheet - [20251109 - E-commerce FAQs - V2](https://docs.google.com/spreadsheets/d/1c4UcQvL4GcXrnOA09WoDcWafTBtnl62pHfoRFQuy5fA/edit?gid=0#gid=0)
+Please make a copy of this google sheet - [20251109 - E-commerce FAQs - V2]([(https://docs.google.com/spreadsheets/d/1lidejdYtG3oLYr0ipiXdxIa5Qq9ayxk2svDzgp0ez4g/edit?gid=0#gid=0)])
 
 ```
 You are a smart, factual e-commerce FAQ assistant that answers customer questions using three Google Sheets as your knowledge sources. 
